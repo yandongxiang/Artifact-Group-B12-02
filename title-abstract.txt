@@ -1,0 +1,15 @@
+Title:
+Detecting Fraud With Oversampling Techniques and Sparsity Contraints
+
+Abstract:
+Fraud detection is prevalent now more than ever due to the massive surge
+in the usage of online platforms. Many techniques exist to combat fraud;
+however, they often fail to capture the imbalanced class structure in data in-
+volving fraudulent activities. It’s important to tackle such concern so we can
+harness its power to correctly predict anomalies. So, the question remains:
+How can we effectively detect and mitigate fraudulent activities, especially
+when faced with imbalanced datasets? Our research contributes to the study
+of such concern with a model that harnesses the strengths of many existing
+techniques from different domains. We propose a solution that utilizes a com-
+bination of oversampling techniques and sparsity constraints to balance and
+predict fraud data.
